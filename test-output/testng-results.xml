@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="54667" started-at="2018-10-15T18:36:46Z" finished-at="2018-10-15T18:37:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="54667" started-at="2018-10-15T18:36:46Z" finished-at="2018-10-15T18:37:41Z">
+      <class name="Twitter_Test.TwitterSignUpTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Twitter_Test.TwitterSignUpTest@457e2f02]" name="setup" is-config="true" duration-ms="31830" started-at="2018-10-16T00:06:46Z" finished-at="2018-10-16T00:07:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="signuptest()[pri:0, instance:Twitter_Test.TwitterSignUpTest@457e2f02]" name="signuptest" duration-ms="19696" started-at="2018-10-16T00:07:18Z" finished-at="2018-10-16T00:07:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signuptest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Twitter_Test.TwitterSignUpTest@457e2f02]" name="teardown" is-config="true" duration-ms="3059" started-at="2018-10-16T00:07:38Z" finished-at="2018-10-16T00:07:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Twitter_Test.TwitterSignUpTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
